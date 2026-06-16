@@ -1,1 +1,1 @@
-<h1 align="center">Welcome to KromaRec!</h1>
+<h1 align="center">Welcome to NexusRec!</h1>
